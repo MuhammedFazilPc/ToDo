@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/emoji-search/static/css/main.aba2669a.css",
-    "main.js": "/emoji-search/static/js/main.6671208b.js",
-    "index.html": "/emoji-search/index.html",
-    "main.aba2669a.css.map": "/emoji-search/static/css/main.aba2669a.css.map",
-    "main.6671208b.js.map": "/emoji-search/static/js/main.6671208b.js.map"
+    "main.css": "/ToDo/static/css/main.aba2669a.css",
+    "main.js": "/ToDo/static/js/main.6671208b.js",
+    "index.html": "/ToDo/index.html",
+    "main.aba2669a.css.map": "/ToDo/static/css/main.aba2669a.css.map",
+    "main.6671208b.js.map": "/ToDo/static/js/main.6671208b.js.map"
   },
   "entrypoints": [
     "static/css/main.aba2669a.css",
